@@ -1,4 +1,4 @@
-
-![imagen](https://www.canva.com/design/DAFPAVnBhVs/Wjfl2TlOkVjWVW4k9Qo3RQ/edit?utm_content=DAFPAVnBhVs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Image from Gyazo](https://i.gyazo.com/70f15d55d21d7628056bb3e59543ff21.png)
 
 # 👋 Hola, soy Adrian Potenciano 💻
+___
