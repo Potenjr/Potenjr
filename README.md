@@ -16,4 +16,4 @@ Decidí empezar el curso de DAM porque desde que era un niño siempre me apasion
 
 Gracias a este curso estoy descubriendo nuevas utilidades de la tecnologia así como mejorar día a día en todo lo que aprendo para convertirme en un gran programador.
 
-Tengo mucha ambición y me dejo llevar por la frase __"Da siempre lo mejor que tienes.Lo que plantes ahora lo cosecharas más tarde."__
+Tengo mucha ambición y me dejo llevar por la frase __"*Da siempre lo mejor que tienes.Lo que plantes ahora lo cosecharas más tarde*."__
