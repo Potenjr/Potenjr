@@ -15,3 +15,5 @@ Soy un joven de 18 años, motivado y aficionado por la informatica.
 Decidí empezar el curso de DAM porque desde que era un niño siempre me apasionó el mundo de la informatica.
 
 Gracias a este curso estoy descubriendo nuevas utilidades de la tecnologia así como mejorar día a día en todo lo que aprendo para convertirme en un gran programador.
+
+Tengo mucha ambición y me dejo llevar por la frase __"Da siempre lo mejor que tienes.Lo que plantes ahora lo cosecharas más tarde."__
