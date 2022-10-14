@@ -4,7 +4,7 @@
 # 👋 Hola, soy Adrian Potenciano 
 
 ___
-Soy [**estudiante**](https://www.iesluisvives.es/) de Formación Profesional en un grado superior en [DAM](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)
+[**Estudiante**](https://www.iesluisvives.es/) de Formación Profesional en un grado superior en [DAM](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)
 
 
 
