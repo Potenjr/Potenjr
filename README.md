@@ -4,11 +4,11 @@
 # 👋 Hola, soy Adrian Potenciano 
 
 ___
-[**Estudiante**](https://www.iesluisvives.es/) de Formación Profesional en un grado superior en [DAM](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)
+Soy [**estudiante**](https://www.iesluisvives.es/) de Formación Profesional en un grado superior en [DAM](https://www.todofp.es/que-como-y-donde-estudiar/que-estudiar/familia/loe/informatica-comunicaciones/des-aplicaciones-multiplataforma.html)
 
 
 
-<img src="https://o.remove.bg/downloads/2cb4995b-0340-41c4-916f-f68a00c72ecb/octocat-1665739343890-removebg-preview.png" width=40% align=left />
+<img src=https://o.remove.bg/downloads/a9f9633a-3cf5-4389-9e57-5ffcdfc923b8/octocat-1665739343890-removebg-preview-removebg-preview.png width=40% align=left />
 
 Soy un joven de 18 años, motivado y aficionado por la informatica.
 
