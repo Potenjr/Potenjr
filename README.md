@@ -34,16 +34,13 @@ ___
 <p align="center">
     <height="50">
     </a> &nbsp;&nbsp;
-    <a href="https://github.com/Potenjr" target="_blank">
-        <img loading="lazy" src="https://distreau.com/github.svg" 
+    <a href="https://github.com/Potenjr" 
     height="50">
     </a> &nbsp;&nbsp;
-    <a href="https://twitter.com/vinifanrm" target="_blank">
-        <img loading="lazy" src="https://i.imgur.com/U4Uiaef.png" 
+    <a href="https://twitter.com/vinifanrm"  
     height="50">
     </a> &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/adrián-potenciano-vila-6b95b2251/" target="_blank">
-        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+    <a href="https://www.linkedin.com/in/adrián-potenciano-vila-6b95b2251/" 
     height="50">
     </a> &nbsp;&nbsp;
     <a href="https://discordapp.com/users/adri 04#0630" target="_blank">
@@ -53,4 +50,18 @@ ___
      <a href="https://www.instagram.com/adri04._/" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" 
     height="50"> &nbsp;&nbsp;
+    </a> &nbsp;&nbsp;
+    <a href="https://twitter.com/vinifanrm" target="_blank">
+        <img loading="lazy" src="https://i.imgur.com/U4Uiaef.png" 
+    height="50">
+    </a> &nbsp;&nbsp;
+     </a> &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/adrián-potenciano-vila-6b95b2251/" target="_blank">
+        <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
+    height="50">
+    </a> &nbsp;&nbsp;
+    </a> &nbsp;&nbsp;
+    <a href="https://github.com/Potenjr" target="_blank">
+        <img loading="lazy" src="https://distreau.com/github.svg" 
+    height="50">
     </a> &nbsp;&nbsp;
