@@ -8,7 +8,7 @@ Soy [**estudiante**](https://www.iesluisvives.es/) de Formación Profesional en 
 
 
 
-<img src=https://o.remove.bg/downloads/a9f9633a-3cf5-4389-9e57-5ffcdfc923b8/octocat-1665739343890-removebg-preview-removebg-preview.png width=40% align=left />
+<img src=https://o.remove.bg/downloads/a9f9633a-3cf5-4389-9e57-5ffcdfc923b8/octocat-1665739343890-removebg-preview-removebg-preview.png width=35% align=left />
 
 Soy un joven de 18 años, motivado y aficionado por la informatica.
 
