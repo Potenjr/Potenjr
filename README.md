@@ -11,7 +11,7 @@ Soy [**estudiante**](https://www.iesluisvives.es/) de Formación Profesional en 
 
 
 
-<img src="octocat-1665739343890-removebg-preview-removebg-preview.png" width=25% align=left />
+<img src="https://o.remove.bg/downloads/0d8c7e7e-2d9c-48db-baad-b7736eaa29cd/octocat-1665739343890-removebg-preview-removebg-preview.png" width=25% align=left />
 Soy un joven de 18 años, motivado y aficionado por la informatica.
 
 Decidí empezar el curso de DAM porque desde que era un niño siempre me apasionó el mundo de la informatica.
