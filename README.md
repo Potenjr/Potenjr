@@ -1,7 +1,8 @@
+# 👋 Hola, soy Adrian Potenciano 💻
+___
 ![Image from Gyazo](https://i.gyazo.com/70f15d55d21d7628056bb3e59543ff21.png)
 
----
-# 👋 Hola, soy Adrian Potenciano 
+
 
 ___
 
@@ -9,8 +10,8 @@ Soy [**estudiante**](https://www.iesluisvives.es/) de Formación Profesional en 
 
 
 
-<img src=https://o.remove.bg/downloads/a9f9633a-3cf5-4389-9e57-5ffcdfc923b8/octocat-1665739343890-removebg-preview-removebg-preview.png width=25% align=left />
 
+<img src="octocat-1665739343890-removebg-preview-removebg-preview.png" width=25% align=left />
 Soy un joven de 18 años, motivado y aficionado por la informatica.
 
 Decidí empezar el curso de DAM porque desde que era un niño siempre me apasionó el mundo de la informatica.
