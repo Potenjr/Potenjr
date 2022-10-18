@@ -67,8 +67,11 @@ ___
         <img loading="lazy" src="https://distreau.com/github.svg" 
     height="50">
     </a> &nbsp;&nbsp;
-_________________________________________________________________
+
+______
 
 ## 🎮 Proyecto en desarrollo 🎮
 <img src="./Logo Pokemon rhodonite.png">
+
+______
                                                             
