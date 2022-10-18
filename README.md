@@ -30,7 +30,8 @@ ___
 <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png width=10% align=center />
 
 ___
-
+## 🎮 Proyecto en desarrollo 🎮
+<img src="./Logo Pokemon rhodonite.png">
 ## 📩 Contáctame 📩
 
 <p align="center">
