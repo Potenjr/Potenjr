@@ -13,7 +13,7 @@ Soy **estudiante** en el IES Luis Vives de Formación Profesional en un grado su
 
 <img src="./octogato.png" width=25% align=left />
 
-Soy un joven de 18 años, motivado y aficionado por la informatica.
+Soy un joven de 20 años, motivado y aficionado por la informatica.
 
 Decidí empezar el curso de DAM porque desde que era un niño siempre me apasionó el mundo de la informatica.
 
@@ -71,9 +71,5 @@ ___
 
 ______
 
-## 🎮 Proyecto en desarrollo 🎮
-<img src="./Logo Pokemon rhodonite.png">
-
-______
-                                                            
+                                                    
 
