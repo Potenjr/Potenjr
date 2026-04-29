@@ -43,6 +43,20 @@ Actualmente en constante aprendizaje, construyendo proyectos que reflejen mi evo
 
 ## 📂 Proyectos Destacados  
 
+🔹 **[TFG 2º DAM - Gestor de Gimnasio](https://github.com/Potenjr/TFG_2DAM)**  
+Aplicación desarrollada como proyecto final del grado superior en DAM, enfocada en la gestión de usuarios, rutinas y control de actividad en un gimnasio.  
+
+💻 Tecnologías: `C#` · `SQL` · `HTML`  
+
+---
+
+🚧 Actualmente desarrollando nuevos proyectos enfocados en:
+
+- 📊 Análisis de datos reales  
+- ⚽ Modelos de predicción en fútbol  
+- 🤖 Machine Learning aplicado  
+- 📈 Dashboards interactivos  
+
 
 
 ---
