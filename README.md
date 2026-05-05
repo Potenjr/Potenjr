@@ -50,7 +50,7 @@ Actualmente en constante aprendizaje, construyendo proyectos que reflejen mi evo
 Aplicación desarrollada como proyecto final del Grado Superior en Desarrollo de Aplicaciones Multiplataforma.  
 Sistema de gestión para gimnasios con control de usuarios, rutinas, actividades y seguimiento.
 
-**🛠️ Tecnologías utilizadas:**  
+#### **🛠️ Tecnologías utilizadas:**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,7 +62,7 @@ Sistema de gestión para gimnasios con control de usuarios, rutinas, actividades
 Repositorio personal con apuntes estructurados de programación, inteligencia artificial y data science.  
 Incluye ejercicios prácticos, notebooks de Jupyter, ejemplos de POO, estructuras de datos y programación funcional en Python.
 
-**🛠️ Tecnologías utilizadas:**  
+#### **🛠️ Tecnologías utilizadas:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
