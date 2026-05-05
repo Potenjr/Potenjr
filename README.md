@@ -50,6 +50,12 @@ Aplicación desarrollada como proyecto final del grado superior en DAM, enfocada
 
 ---
 
+🔹 **[Apuntes Máster Data Science & IA](https://github.com/Potenjr/Apuntes_Master_DataScience_IA)**  
+Repositorio personal con apuntes organizados de programación, inteligencia artificial y data science. Incluye ejercicios prácticos en Python, notebooks de Jupyter y ejemplos de estructuras de datos, programación funcional y POO.
+
+💻 Tecnologías: `Python` · `Jupyter Notebook` · `Git` · `Markdown`
+---
+
 🚧 Actualmente desarrollando nuevos proyectos enfocados en:
 
 - 📊 Análisis de datos reales  
@@ -67,7 +73,6 @@ Aplicación desarrollada como proyecto final del grado superior en DAM, enfocada
   <img src="https://github-readme-stats.vercel.app/api?username=Potenjr&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potenjr&layout=compact&theme=tokyonight" height="150"/>
 </p>
-
 ---
 
 ## 📫 Contacto  
