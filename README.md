@@ -68,6 +68,22 @@ Incluye ejercicios prácticos, notebooks de Jupyter, ejemplos de POO, estructura
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ---
+### 🔹 [Football Players Stats Analysis (2025–2026)](https://github.com/Potenjr/Football_Players_Stats_Analysis_2025_26)
+
+Proyecto de análisis exploratorio de datos aplicado al fútbol profesional de las 5 grandes ligas europeas.  
+El objetivo es extraer insights sobre rendimiento ofensivo, disciplina, porteros, edad de pico de rendimiento y comparación entre jugadores mediante métricas avanzadas.
+
+Incluye un pipeline completo de análisis desde la carga de datos hasta la generación de visualizaciones automatizadas.
+
+#### **🛠️ Tecnologías utilizadas:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4A62?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
 🚧 Actualmente desarrollando nuevos proyectos enfocados en:
 
